@@ -2,7 +2,7 @@ writeCode
 
 Design a podcast application where we have 2 interfaces
 
-- admin interface
+- admi n interface
 - user interface
 
 An admin can list podcasts in 3 different sections
