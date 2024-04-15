@@ -2,7 +2,7 @@ writeCode
 
 E xtend Assignment level 3 from prevoius chapter to
 
-- implement an admin dashboard to
+- impl ement an admin dashboard to
 - view all users
 - view all products
 - view all categories
