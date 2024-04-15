@@ -1,6 +1,6 @@
 writeCode
 
-Extend Assignment level 3 from prevoius chapter to
+E xtend Assignment level 3 from prevoius chapter to
 
 - implement an admin dashboard to
 - view all users
