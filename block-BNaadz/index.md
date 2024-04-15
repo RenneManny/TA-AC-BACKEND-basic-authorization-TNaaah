@@ -2,7 +2,7 @@ writeCode
 
 Refine the `level 2 assignment` from previous chaptor to include
 
-- comments for each article
+- c omments for each article
 - comments can be edited/deleted
 - implement to like/dislike comments
 - add a button `My Articles` where a logged in user can view all his articles.
